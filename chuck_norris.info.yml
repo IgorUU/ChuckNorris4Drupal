@@ -1,0 +1,5 @@
+name: Chuck Norris module
+type: module
+description: Generates random Chuck Norris jokes.
+package: Custom
+core_version_requirement: ^9 || ^10

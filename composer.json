@@ -1,0 +1,13 @@
+{
+    "name": "drupal-modules/chuck-norris",
+    "type": "drupal-custom-module",
+    "description": "Chuck Norris jokes",
+    "authors": [
+        {
+            "name": "Chuck Norris",
+            "role": "Almighty"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev"
+}

@@ -1,0 +1,4 @@
+administer chuck_norris configuration:
+  title: 'Administer chuck_norris configuration'
+  description: 'Optional description.'
+  restrict access: true

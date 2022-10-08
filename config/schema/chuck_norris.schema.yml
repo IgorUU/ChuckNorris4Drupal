@@ -1,0 +1,8 @@
+# Schema for the configuration files of the Chuck Norris module module.
+chuck_norris.settings:
+  type: config_object
+  label: 'Chuck Norris module settings'
+  mapping:
+    example:
+      type: string
+      label: 'Chuck Norris'

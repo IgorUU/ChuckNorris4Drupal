@@ -1,0 +1,7 @@
+# Custom module library for general purposes.
+chuck_norris:
+  css:
+    theme:
+      css/chuck-norris.css: {}
+  dependencies:
+    - core/drupalSettings

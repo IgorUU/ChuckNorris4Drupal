@@ -1,0 +1,15 @@
+chuck_norris.settings_form:
+  path: '/admin/config/system/chuck-norris'
+  defaults:
+    _title: 'Chuck Norris module settings'
+    _form: 'Drupal\chuck_norris\Form\SettingsForm'
+  requirements:
+    _permission: 'administer site configuration'
+
+chuck_norris.chuck_norris:
+  path: '/chuck-norris/chuck-norris'
+  defaults:
+    _title: 'Chuck norris'
+    _form: 'Drupal\chuck_norris\Form\ChuckNorrisForm'
+  requirements:
+    _permission: 'access content'

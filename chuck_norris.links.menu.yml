@@ -1,0 +1,6 @@
+chuck_norris.settings_form:
+  title: 'Chuck Norris settings'
+  description: 'Configure Chuck Norris module.'
+  parent: system.admin_config_system
+  route_name: chuck_norris.settings_form
+  weight: 10
